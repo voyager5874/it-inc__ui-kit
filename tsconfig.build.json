@@ -1,0 +1,9 @@
+{
+  "extends": "./tsconfig",
+  "exclude": ["**/*.test.ts", "**/*.mock.ts", "**/*.stories.ts", "**/*.stories.tsx"],
+  "compilerOptions": {
+    "outDir": "dist",
+    "emitDeclarationOnly": true,
+    "declaration": true
+  }
+}

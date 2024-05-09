@@ -1,0 +1,23 @@
+:root {
+  /* globals */
+  --font-family: inter;
+
+  /* font-sizes */
+  --font-size-xs: 0.75rem; // 12px
+  --font-size-sm: 0.875rem; // 14px
+  --font-size-md: 1rem; // 16px
+  --font-size-lg: 1.125rem; // 18px
+  --font-size-xl: 1.25rem; // 20px
+  --font-size-xxl: 1.625rem; // 26px
+
+  /* line-heights */
+  --line-height-sm: 1rem;
+  --line-height-md: 1.5rem;
+  --line-height-lg: 2.25rem;
+
+  /* font-weights */
+  --font-weight-regular: 400;
+  --font-weight-medium: 500;
+  --font-weight-semi-bold: 600;
+  --font-weight-bold: 700;
+}
